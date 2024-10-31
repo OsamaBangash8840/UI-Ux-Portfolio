@@ -1,0 +1,17 @@
+/* styles/SkillsGrid.module.css */
+
+
+.skillsGrid {
+    background-image: url('/src/app/assests/Skills.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  @media (max-width: 768px) {
+    .skillsGrid {
+      background-image: url('/src/app/assests/SkillsBg.png');
+      background-size: cover;
+      background-position: fill;
+    }
+  }
+  
