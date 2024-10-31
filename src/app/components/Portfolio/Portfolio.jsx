@@ -1,4 +1,4 @@
-import PortfolioBg from '@/app/assests/PortfolioBg.png';
+import PortfolioBg from '@/app/assests/portfolioBg.png';
 import PortfolioImg1 from '@/app/assests/p1.png';
 import PortfolioImg2 from '@/app/assests/p2.png';
 import PortfolioImg3 from '@/app/assests/p3.png';
